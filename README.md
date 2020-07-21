@@ -23,11 +23,11 @@ const anmol = {
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
-            html : [ Emmet | Snippets | Opengraph & Twitter Card | Pug | Handlebars ],
-            svg : [ Animation | Loaders ],
-            css : [ Layout ( Flexbox - Grid ) | Architecture CSS ( ITCSS ) | Naming CSS ( SUIT CSS - BEM ) | Animaciones | SASS ( SCSS ) | RWD ( Mixins ) ],
-            js : [ DOM | BOM | ES6 | Local Storage | AJAX | JSON | Fetch | Promesas | Axios ] ,
-            framworks js : [ React ( Hooks ) | React Router | Redux ],
+            html : [ "Emmet" , "Snippets" , "Opengraph & Twitter Card" , "Pug" , "Handlebars" ],
+            svg : [ "Animation" , "Loaders" ],
+            css : [ "Layout ( Flexbox - Grid )" , "Architecture CSS ( ITCSS )" , "Naming CSS ( SUIT CSS - BEM )" , "Animaciones" , "SCSS" , "RWD ( Mixins )" ],
+            js : [ "DOM" , "BOM" , "ES6" , "Local Storage" , "AJAX" ,"JSON" , "Fetch" , "Promesas" , "Axios" ] ,
+            framworks js : [ "React ( Hooks )" , "React Router" , "Redux" ],
         },
         tools : [ Git , Webpack , Gulp , Npm , Yarn ]
         devOps: ["Docker🐳","Nginx"],
