@@ -25,7 +25,7 @@ const anmol = {
         frontEnd: {
             html : [ "Emmet" , "Snippets" , "Opengraph & Twitter Card" , "Pug" , "Handlebars" ],
             svg : [ "Animation" , "Loaders" ],
-            css : [ "Layout ( Flexbox - Grid )" , "Architecture ( ITCSS )" , "Naming CSS ( SUITCSS - BEM )" , "Animaciones" , "SCSS" , "RWD" ],
+            css : [ "Layout ( Flexbox - Grid )" , "Architecture ITCSS" , "Naming ( BEM )" , "Animaciones" , "SCSS" , "RWD" ],
             js : [ "DOM" , "BOM" , "ES6" , "Local Storage" , "AJAX" ,"JSON" , "Fetch" , "Promesas" , "Axios" ] ,
             frameworks js : [ "React ( Hooks )" , "React Router" , "Redux" ],
         },
@@ -33,7 +33,7 @@ const anmol = {
         devOps: ["Docker🐳","Nginx"],
         data: ["MySql", "Firebase"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Single page applications"],
 };
 ```
 
