@@ -25,8 +25,7 @@ const anmol = {
         frontEnd: {
             html : [ Emmet | Snippets | Opengraph & Twitter Card | Pug | Handlebars ],
             svg : [ Animation | Loaders ],
-            css : [ Layout ( Flexbox - Grid - Box Model - Position ) | Architecture CSS ( ITCSS ) | Naming CSS ( SUIT CSS - BEM ) | Animaciones | SASS ( SCSS ) | Responsive Web Design ( Mixins ) ],
-            frameworks css : [  BOOTSTRAP | BULMA | MATERIALIZE ],
+            css : [ Layout ( Flexbox - Grid ) | Architecture CSS ( ITCSS ) | Naming CSS ( SUIT CSS - BEM ) | Animaciones | SASS ( SCSS ) | RWD ( Mixins ) ],
             js : [ DOM | BOM | ES6 | Local Storage | AJAX | JSON | Fetch | Promesas | Axios ] ,
             framworks js : [ React ( Hooks ) | React Router | Redux ],
         },
