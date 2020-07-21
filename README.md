@@ -25,11 +25,11 @@ const anmol = {
         frontEnd: {
             html : [ "Emmet" , "Snippets" , "Opengraph & Twitter Card" , "Pug" , "Handlebars" ],
             svg : [ "Animation" , "Loaders" ],
-            css : [ "Layout ( Flexbox - Grid )" , "Architecture CSS ( ITCSS )" , "Naming CSS ( SUIT CSS - BEM )" , "Animaciones" , "SCSS" , "RWD ( Mixins )" ],
+            css : [ "Layout ( Flexbox - Grid )" , "Architecture ( ITCSS )" , "Naming CSS ( SUITCSS - BEM )" , "Animaciones" , "SCSS" , "RWD" ],
             js : [ "DOM" , "BOM" , "ES6" , "Local Storage" , "AJAX" ,"JSON" , "Fetch" , "Promesas" , "Axios" ] ,
-            framworks js : [ "React ( Hooks )" , "React Router" , "Redux" ],
+            frameworks js : [ "React ( Hooks )" , "React Router" , "Redux" ],
         },
-        tools : [ Git , Webpack , Gulp , Npm , Yarn ]
+        tools : [ "Git" , "Webpack" , "Gulp" , "Npm" , "Yarn" ]
         devOps: ["Docker🐳","Nginx"],
         data: ["MySql", "Firebase"],
     },
