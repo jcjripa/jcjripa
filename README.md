@@ -25,7 +25,7 @@ const anmol = {
         frontEnd: {
             html : [ Emmet | Snippets | Opengraph & Twitter Card | Pug | Handlebars ],
             svg : [ Animation | Loaders ],
-            css : [ Layout ( Flexbox - Grid - Box Model - Position ) | Architecture CSS ( ITCSS ) | Naming CSS ( SUIT CSS - BEM ) | Animaciones | SASS ( SCSS ) | Responsive Web Design ( Mixins ) ]
+            css : [ Layout ( Flexbox - Grid - Box Model - Position ) | Architecture CSS ( ITCSS ) | Naming CSS ( SUIT CSS - BEM ) | Animaciones | SASS ( SCSS ) | Responsive Web Design ( Mixins ) ],
             frameworks css : [  BOOTSTRAP | BULMA | MATERIALIZE ],
             js : [ DOM | BOM | ES6 | Local Storage | AJAX | JSON | Fetch | Promesas | Axios ] ,
             framworks js : [ React ( Hooks ) | React Router | Redux ],
@@ -44,6 +44,6 @@ const anmol = {
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-
+    React
 ```
 <!--END_SECTION:waka-->
