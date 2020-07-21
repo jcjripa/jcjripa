@@ -1,36 +1,40 @@
-### Hi there 👋
-<h2>नमस्ते (Namaste)🙏🏻, I'm Julio Cesar Rivera <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### Hi there, I'm [Julio Cesar Rivera!](https://juliorivera.dev) 👋.
+<br/>
+<a href="https://twitter.com/jcjrivera">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jcjrp/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+<a href="https://www.instagram.com/jcjrivera/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
+
+![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
+
+<br />
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
-        mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            html : [ Emmet | Snippets | Opengraph & Twitter Card | Pug | Handlebars ],
+            svg : [ Animation | Loaders ],
+            css : [ Layout ( Flexbox - Grid - Box Model - Position ) | Architecture CSS ( ITCSS ) | Naming CSS ( SUIT CSS - BEM ) | Animaciones | SASS ( SCSS ) | Responsive Web Design ( Mixins ) ]
+            frameworks css : [  BOOTSTRAP | BULMA | MATERIALIZE ],
+            js : [ DOM | BOM | ES6 | Local Storage | AJAX | JSON | Fetch | Promesas | Axios ] ,
+            framworks js : [ React ( Hooks ) | React Router | Redux ],
         },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        tools : [ Git , Webpack , Gulp , Npm , Yarn ]
+        devOps: ["Docker🐳","Nginx"],
+        data: ["MySql", "Firebase"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
